@@ -1,24 +1,35 @@
-# 💫 About Me:
-Hi there! 👋<br>I'm Shahin, a passionate developer with a love for coding and continuous learning. 🚀<br>🌱 Always Learning: I thrive on exploring new technologies and staying up-to-date with the latest trends in the tech world.<br>💡 Innovative Solutions: I enjoy solving complex problems and building innovative solutions that make a difference.<br>💬 Knowledge Sharing: I believe in the power of community and love sharing my knowledge through open-source contributions, blog posts, and mentoring.<br>Let's connect and create something amazing together! ✨
+### Shahin Heidary
 
+Full-Stack, Mobile & Desktop Software Engineer focused on **cross-platform architecture**, **systems performance**, and **clean UI engineering**.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shahin_codes) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shahinamman) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![Badge Name](https://img.shields.io/badge/tRPC-%232596BE.svg?style=plastic&logo=tRPC&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=plastic&logo=three.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=plastic&logo=styled-components&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=plastic&logo=react%20query&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=plastic&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=plastic&logo=mui&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=plastic&logo=expo&logoColor=#D04A37) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=plastic&logo=daisyui&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=plastic&logo=eslint&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shahinheidary&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=shahinheidary&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shahinheidary&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shahinheidary&theme=github_dark_dimmed&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+- **Currently building:** Cross-platform desktop utilities with **Rust & Tauri**, and scalable mobile/web products with **React Native (Expo)** & **Next.js**.
+- **Focus areas:** Offline-first architecture, real-time systems, and native-grade developer tools.
+- **Content & Community:** Sharing engineering breakdowns and architecture tips on [@shahin_codes](https://instagram.com/shahin_codes).
 
 ---
-[![](https://visitcount.itsvg.in/api?id=shahinheidary&icon=2&color=9)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Core Stack
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Languages** | ![TypeScript](https://img.shields.io/badge/TypeScript-18181B?style=flat-square&logo=typescript&logoColor=3178C6) ![Rust](https://img.shields.io/badge/Rust-18181B?style=flat-square&logo=rust&logoColor=FFFFFF) ![JavaScript](https://img.shields.io/badge/JavaScript-18181B?style=flat-square&logo=javascript&logoColor=F7DF1E) ![Python](https://img.shields.io/badge/Python-18181B?style=flat-square&logo=python&logoColor=3776AB) |
+| **Web & Mobile** | ![Next.js](https://img.shields.io/badge/Next.js-18181B?style=flat-square&logo=next.js&logoColor=FFFFFF) ![React](https://img.shields.io/badge/React-18181B?style=flat-square&logo=react&logoColor=61DAFB) ![React Native](https://img.shields.io/badge/React_Native-18181B?style=flat-square&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-18181B?style=flat-square&logo=expo&logoColor=FFFFFF) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-18181B?style=flat-square&logo=tailwindcss&logoColor=38B2AC) |
+| **Desktop & Systems** | ![Tauri](https://img.shields.io/badge/Tauri-18181B?style=flat-square&logo=tauri&logoColor=FFC131) ![Vite](https://img.shields.io/badge/Vite-18181B?style=flat-square&logo=vite&logoColor=646CFF) |
+| **Backend & Data** | ![NestJS](https://img.shields.io/badge/NestJS-18181B?style=flat-square&logo=nestjs&logoColor=E0234E) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-18181B?style=flat-square&logo=postgresql&logoColor=4169E1) ![Supabase](https://img.shields.io/badge/Supabase-18181B?style=flat-square&logo=supabase&logoColor=3ECF8E) ![Redis](https://img.shields.io/badge/Redis-18181B?style=flat-square&logo=redis&logoColor=DC382D) |
+
+---
+
+### Selected Work
+
+- **[WinDrop](https://github.com/shahinheidary)** — Cross-platform wireless & USB file-sharing utility for Windows and iOS built with Tauri, Rust, and React. *(لینک دقیق ریپو را جایگزین کن)*
+- **Project Name 2** — توضیح تک‌خطی شامل مسئله، راه‌حل و استک استفاده‌شده.
+- **Project Name 3** — توضیح تک‌خطی شامل مسئله، راه‌حل و استک استفاده‌شده.
+
+---
+
+### Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-18181B?style=flat-square&logo=linkedin&logoColor=FFFFFF)](https://linkedin.com/in/shahinamman)
+[![Instagram](https://img.shields.io/badge/Instagram-18181B?style=flat-square&logo=instagram&logoColor=FFFFFF)](https://instagram.com/shahin_codes)
+[![Telegram](https://img.shields.io/badge/Telegram-18181B?style=flat-square&logo=telegram&logoColor=FFFFFF)](https://t.me/shahinamman01)
+[![Website](https://img.shields.io/badge/ash--codes.ir-18181B?style=flat-square&logo=googlechrome&logoColor=FFFFFF)](https://ash-codes.ir)
