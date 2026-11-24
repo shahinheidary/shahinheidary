@@ -17,13 +17,7 @@ Full-Stack, Mobile & Desktop Software Engineer focused on **cross-platform archi
 | **Desktop & Systems** | ![Tauri](https://img.shields.io/badge/Tauri-18181B?style=flat-square&logo=tauri&logoColor=FFC131) ![Vite](https://img.shields.io/badge/Vite-18181B?style=flat-square&logo=vite&logoColor=646CFF) |
 | **Backend & Data** | ![NestJS](https://img.shields.io/badge/NestJS-18181B?style=flat-square&logo=nestjs&logoColor=E0234E) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-18181B?style=flat-square&logo=postgresql&logoColor=4169E1) ![Supabase](https://img.shields.io/badge/Supabase-18181B?style=flat-square&logo=supabase&logoColor=3ECF8E) ![Redis](https://img.shields.io/badge/Redis-18181B?style=flat-square&logo=redis&logoColor=DC382D) |
 
----
 
-### Selected Work
-
-- **[WinDrop](https://github.com/shahinheidary)** — Cross-platform wireless & USB file-sharing utility for Windows and iOS built with Tauri, Rust, and React. *(لینک دقیق ریپو را جایگزین کن)*
-- **Project Name 2** — توضیح تک‌خطی شامل مسئله، راه‌حل و استک استفاده‌شده.
-- **Project Name 3** — توضیح تک‌خطی شامل مسئله، راه‌حل و استک استفاده‌شده.
 
 ---
 
@@ -31,5 +25,5 @@ Full-Stack, Mobile & Desktop Software Engineer focused on **cross-platform archi
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-18181B?style=flat-square&logo=linkedin&logoColor=FFFFFF)](https://linkedin.com/in/shahinamman)
 [![Instagram](https://img.shields.io/badge/Instagram-18181B?style=flat-square&logo=instagram&logoColor=FFFFFF)](https://instagram.com/shahin_codes)
-[![Telegram](https://img.shields.io/badge/Telegram-18181B?style=flat-square&logo=telegram&logoColor=FFFFFF)](https://t.me/shahinamman01)
+[![Telegram](https://img.shields.io/badge/Telegram-18181B?style=flat-square&logo=telegram&logoColor=FFFFFF)](https://t.me/shahinammann)
 [![Website](https://img.shields.io/badge/ash--codes.ir-18181B?style=flat-square&logo=googlechrome&logoColor=FFFFFF)](https://ash-codes.ir)
